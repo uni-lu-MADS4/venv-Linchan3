@@ -41,7 +41,9 @@ ADDRESS_TO_VENV_FOLDER\Scripts\activate.bat
 ADDRESS_TO_VENV_FOLDER\Scripts\Activate.ps1
 ```
 #### Example (with the name .venv):
+```bash
 source .venv/bin/activate
+```
 ---
 
 ## Step 2: Install the required packages and run Q01.py
